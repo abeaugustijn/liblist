@@ -6,7 +6,7 @@
 /*   By: aaugusti <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/18 15:27:02 by aaugusti          #+#    #+#             */
-/*   Updated: 2020/02/18 15:27:57 by aaugusti         ###   ########.fr       */
+/*   Updated: 2020/02/18 15:56:59 by aaugusti         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,7 @@
 
 t_list	*lst_last(t_list *list)
 {
-	while (list)
+	while (list->next)
 		list = list->next;
 	return (list);
 }
