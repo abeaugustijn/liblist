@@ -6,7 +6,7 @@
 #    By: aaugusti <aaugusti@student.codam.nl>         +#+                      #
 #                                                    +#+                       #
 #    Created: 2019/10/29 11:05:37 by aaugusti       #+#    #+#                 #
-#    Updated: 2020/01/27 11:07:09 by aaugusti         ###   ########.fr        #
+#    Updated: 2020/02/18 15:17:12 by aaugusti         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,7 +18,8 @@ SRCS			=	foreach\
 					new_front\
 					remove\
 					reverse\
-					size
+					size\
+					find_parent
 
 
 CFILES			=	$(SRCS:%=lst_%.c)
