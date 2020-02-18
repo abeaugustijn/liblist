@@ -6,7 +6,7 @@
 /*   By: abe <marvin@42.fr>                         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/01/13 21:08:19 by abe               #+#    #+#             */
-/*   Updated: 2020/02/18 15:17:44 by aaugusti         ###   ########.fr       */
+/*   Updated: 2020/02/18 15:28:04 by aaugusti         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,5 +31,6 @@ void	lst_reverse(t_list **node);
 size_t	lst_size(t_list *node);
 void	lst_foreach(t_list *node, void (*func)(void *));
 t_list	*lst_find_parent(void *to_find, t_list *list);
+t_list	*lst_last(t_list *list);
 
 #endif
