@@ -1,26 +1,28 @@
 # **************************************************************************** #
 #                                                                              #
 #                                                         ::::::::             #
-#    Makefile                                           :+:      :+:    :+:    #
+#    Makefile                                           :+:    :+:             #
 #                                                      +:+                     #
 #    By: aaugusti <aaugusti@student.codam.nl>         +#+                      #
 #                                                    +#+                       #
 #    Created: 2019/10/29 11:05:37 by aaugusti       #+#    #+#                 #
-#    Updated: 2020/02/18 15:28:10 by aaugusti         ###   ########.fr        #
+#    Updated: 2020/04/29 19:36:18 by aaugusti      ########   odam.nl          #
 #                                                                              #
 # **************************************************************************** #
 
 NAME			=	liblist.a
 
-SRCS			=	foreach\
+SRCS			=	\
+					destroy\
+					find_parent\
+					foreach\
+					last\
 					new\
 					new_back\
 					new_front\
 					remove\
 					reverse\
 					size\
-					find_parent\
-					last
 
 
 CFILES			=	$(SRCS:%=lst_%.c)
