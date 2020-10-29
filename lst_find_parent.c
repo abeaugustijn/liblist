@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   lst_find_parent.c                                  :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: aaugusti <marvin@42.fr>                      +#+                     */
+/*   By: aaugusti <aaugusti@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/02/18 15:14:13 by aaugusti      #+#   #+#                  */
-/*   Updated: 2020/02/18 15:16:59 by aaugusti      ########   odam.nl         */
+/*   Created: 2020/10/29 14:26:19 by aaugusti      #+#    #+#                 */
+/*   Updated: 2020/10/29 14:27:25 by aaugusti      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,4 +36,3 @@ t_list	*lst_find_parent(void *to_find, t_list *list)
 	}
 	return (NULL);
 }
-

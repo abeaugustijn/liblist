@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   lst_new_back.c                                     :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: abe <marvin@42.fr>                           +#+                     */
+/*   By: aaugusti <aaugusti@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/13 21:17:52 by abe           #+#   #+#                  */
-/*   Updated: 2020/01/15 18:27:33 by abe           ########   odam.nl         */
+/*   Created: 2020/10/29 14:26:23 by aaugusti      #+#    #+#                 */
+/*   Updated: 2020/10/29 14:26:23 by aaugusti      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

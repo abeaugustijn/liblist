@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   lst_new_front.c                                    :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: abe <marvin@42.fr>                           +#+                     */
+/*   By: aaugusti <aaugusti@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/13 21:23:30 by abe           #+#   #+#                  */
-/*   Updated: 2020/01/14 09:57:42 by abe           ########   odam.nl         */
+/*   Created: 2020/10/29 14:26:24 by aaugusti      #+#    #+#                 */
+/*   Updated: 2020/10/29 14:26:24 by aaugusti      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,15 +3,14 @@
 /*                                                        ::::::::            */
 /*   lst_last.c                                         :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: aaugusti <marvin@42.fr>                      +#+                     */
+/*   By: aaugusti <aaugusti@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/02/18 15:27:02 by aaugusti      #+#   #+#                  */
-/*   Updated: 2020/02/18 15:56:59 by aaugusti      ########   odam.nl         */
+/*   Created: 2020/10/29 14:26:21 by aaugusti      #+#    #+#                 */
+/*   Updated: 2020/10/29 14:27:35 by aaugusti      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
- #include "liblist.h"
-
+#include "liblist.h"
 
 /*
 **	Get the last element in a list.

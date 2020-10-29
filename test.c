@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   test.c                                             :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: abe <marvin@42.fr>                           +#+                     */
+/*   By: aaugusti <aaugusti@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/14 09:41:44 by abe           #+#   #+#                  */
-/*   Updated: 2020/01/14 11:52:12 by aaugusti      ########   odam.nl         */
+/*   Created: 2020/10/29 14:26:29 by aaugusti      #+#    #+#                 */
+/*   Updated: 2020/10/29 14:26:29 by aaugusti      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 

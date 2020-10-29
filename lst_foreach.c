@@ -3,10 +3,10 @@
 /*                                                        ::::::::            */
 /*   lst_foreach.c                                      :+:    :+:            */
 /*                                                     +:+                    */
-/*   By: abe <marvin@42.fr>                           +#+                     */
+/*   By: aaugusti <aaugusti@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/14 09:38:06 by abe           #+#   #+#                  */
-/*   Updated: 2020/01/14 09:57:10 by abe           ########   odam.nl         */
+/*   Created: 2020/10/29 14:26:20 by aaugusti      #+#    #+#                 */
+/*   Updated: 2020/10/29 14:26:20 by aaugusti      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
