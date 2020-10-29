@@ -6,7 +6,7 @@
 #    By: aaugusti <aaugusti@student.codam.nl>         +#+                      #
 #                                                    +#+                       #
 #    Created: 2020/10/29 14:26:30 by aaugusti      #+#    #+#                  #
-#    Updated: 2020/10/29 14:26:30 by aaugusti      ########   odam.nl          #
+#    Updated: 2020/10/29 14:28:15 by aaugusti      ########   odam.nl          #
 #                                                                              #
 # **************************************************************************** #
 
@@ -43,12 +43,9 @@ $(NAME): $(OFILES)
 clean: _clean
 
 fclean: _clean
-	rm -f $(NAME) test
+	rm -f $(NAME)
 
 _clean:
-	@rm -f $(OFILES) test.o
+	@rm -f $(OFILES)
 
 re: fclean all
-
-test: $(OFILES) test.o
-	gcc -o test $(FLAGS) $(OFILES) test.o -fsanitize=address
